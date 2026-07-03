@@ -19,6 +19,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it.
 - `/explore` — live Zama dapps built by the community
 - `/swap` — confidential swap demo UI
 
+## Featured Projects
+
+1. **Zama x402** — Confidential x402 payment protocol built on Zama, enabling encrypted micropayments and agent-to-agent settlement.
+   - GitHub: https://github.com/ayushsingh82/Zama-x402
+   - Website: https://zama-x402.vercel.app/
+2. **Project 2** — Coming soon.
+3. **Project 3** — Coming soon.
+4. **Project 4** — Coming soon.
+
 ## Tech Stack
 
 Next.js, React, TypeScript, Tailwind CSS.
