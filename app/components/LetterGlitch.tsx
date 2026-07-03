@@ -8,7 +8,7 @@ const LetterGlitch = ({
   centerVignette = false,
   outerVignette = true,
   smooth = true,
-  characters = '(FHENIX*)(FHENIX*)-STARTERS!@#$&*()-_+FHENIX*;:<>.,FHENIX*',
+  characters = 'ZAMA-STARTERS!@#$&*()-_+ZAMA;:<>.,ZAMA',
   backgroundColor = '#000000'
 }: {
   glitchColors?: string[];

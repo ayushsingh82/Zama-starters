@@ -32,7 +32,7 @@ const HeroLanding: React.FC = () => {
               ? 'text-[#011623] border-[#03D9DC]' 
               : 'text-white border-[#CC4420]'
           }`}>
-            FHENIX LIVE DAPPS
+            ZAMA LIVE DAPPS
           </span>
         </div>
         
@@ -40,10 +40,10 @@ const HeroLanding: React.FC = () => {
           isLight ? 'text-[#011623]' : 'text-white'
         }`}>
           Explore <span className={`px-2 ${
-            isLight 
-              ? 'bg-[#03D9DC] text-[#011623]' 
+            isLight
+              ? 'bg-[#03D9DC] text-[#011623]'
               : 'bg-[#CC4420] text-white'
-          }`}>Fhenix*</span>.
+          }`}>Zama</span>.
           <br /> 
           Launch <span className={`px-2 ${
             isLight 
@@ -53,7 +53,7 @@ const HeroLanding: React.FC = () => {
         </h1>
         
         <p className="text-lg md:text-xl text-zinc-400 max-w-3xl mx-auto mb-10">
-          Discover real-world applications built on Fhenix. Explore live dapps showcasing privacy-preserving computation and encrypted data processing.
+          Discover real-world applications built on Zama. Explore live dapps showcasing privacy-preserving computation and encrypted data processing.
         </p>
         
         {/* --- CTAs --- */}

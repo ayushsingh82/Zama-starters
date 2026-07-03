@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "(fhenix*)-starters",
-  description: "this website contains fhenix starter repos to help you get started with fhenix",
+  title: "zama-starters",
+  description: "this website contains zama starter repos to help you get started with zama",
 };
 
 export default function RootLayout({
