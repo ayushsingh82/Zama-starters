@@ -26,23 +26,17 @@ const HeroLanding: React.FC = () => {
       
       <div className="max-w-6xl mx-auto text-center z-10 relative">
         {/* --- Branding & Headline --- */}
-        <div className="inline-block mb-2">
-          <span className={`text-xs font-mono tracking-widest border px-3 py-1.5 rounded mb-4 ${
-            isLight 
-              ? 'text-[#011623] border-[#03D9DC]' 
-              : 'text-white border-[#CC4420]'
-          }`}>
-            ZAMA LIVE DAPPS
-          </span>
-        </div>
-
-        <div className="flex items-center justify-center gap-2 mb-4 text-sm text-zinc-400">
+        <div className={`inline-flex items-center gap-2 mb-2 border px-3 py-1.5 rounded text-xs font-mono tracking-widest ${
+          isLight
+            ? 'text-[#011623] border-[#03D9DC]'
+            : 'text-white border-[#CC4420]'
+        }`}>
           <span>Zama live dapp by Ayush</span>
           <Link
             href="https://x.com/eth_ay32"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center hover:text-white transition"
+            className="inline-flex items-center hover:opacity-70 transition"
             aria-label="eth_ay32 on X"
           >
             <svg
