@@ -24,9 +24,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it.
 1. **Zama x402** — Confidential x402 payment protocol built on Zama, enabling encrypted micropayments and agent-to-agent settlement.
    - GitHub: https://github.com/ayushsingh82/Zama-x402
    - Website: https://zama-x402.vercel.app/
-2. **Project 2** — Coming soon.
-3. **Project 3** — Coming soon.
-4. **Project 4** — Coming soon.
+2. **Zama-Bid** — GitHub: https://github.com/ayushsingh82/Zama-Bid
+3. **Zama-Multisig** — GitHub: https://github.com/ayushsingh82/Zama-Multisig
+4. **Zama-Shield** — GitHub: https://github.com/ayushsingh82/Zama-Shield
 
 ## Tech Stack
 

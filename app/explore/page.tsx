@@ -68,10 +68,10 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    name: 'Project 4',
-    description: 'Description for Project 4. Coming soon.',
+    name: 'Zama-Shield',
+    description: 'Description for Zama-Shield. Coming soon.',
     image: 'https://cdn.prod.website-files.com/6889e4acaa36a330a3b124f2/6914c5793d1c014c69016d8a_Twitter%20post%20-%20404%20(1).png',
-    githubUrl: '',
+    githubUrl: 'https://github.com/ayushsingh82/Zama-Shield',
     websiteUrl: '',
   },
 ];
