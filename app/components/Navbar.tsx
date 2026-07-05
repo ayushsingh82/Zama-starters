@@ -14,14 +14,6 @@ const Navbar = () => {
           >
             Zama-starters
           </Link>
-          <div className="absolute left-1/2 transform -translate-x-1/2">
-            <Link
-              href="/explore"
-              className="text-white hover:text-zinc-400 transition"
-            >
-              Explore
-            </Link>
-          </div>
         </div>
       </div>
     </nav>
